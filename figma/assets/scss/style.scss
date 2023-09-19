@@ -1,0 +1,16 @@
+@import './partials/navbar';
+@import './partials/browse-part';
+@import './partials/products';
+@import './partials/footer';
+@import './partials/shop';
+@import './partials/filter';
+@import './partials/introduction';
+@import './partials/menu-next';
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    list-style: none;
+}

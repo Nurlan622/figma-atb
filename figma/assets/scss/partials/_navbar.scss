@@ -1,0 +1,38 @@
+header {
+    .menu {
+        li {
+            padding: 0 30px;
+        }
+
+        a {
+            color: black;
+        }
+    }
+    .head-main{
+        position: relative;
+    }
+    .head-content {
+        width: 643px;
+        height: 443px;
+        border-radius: 10px;
+        background-color: #FFF3E3;
+        position: absolute;
+        right: 58px;
+        top: 153px;
+    }
+    .content-text{
+        p{
+            font-size: 52px;
+            font-weight: 700;
+            margin: 0;
+            width: 450px;
+            color: #B88E2F;
+        }
+        .btn-color{
+            background-color: #B88E2F;
+            color: #fff;
+            text-transform: uppercase;
+            padding: 25px 75px;
+        }
+    }
+}

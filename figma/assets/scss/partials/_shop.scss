@@ -1,0 +1,21 @@
+#shop-menu{
+    position: relative;
+    .shop{
+        position: absolute;
+        top: 90px;
+    }
+    .fs{
+        font-size: 40px;
+        font-weight: 500;
+    }
+    .home-shop{
+        p{
+            font-size: 12px;
+            font-weight: 700;
+        }
+        span{
+            font-size: 12px;
+            font-weight: 400;
+        }
+    }
+}
